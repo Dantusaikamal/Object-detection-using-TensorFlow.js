@@ -1,0 +1,23 @@
+{
+  "name": "object-classification-using-tensorflow.js",
+  "version": "2.0.0",
+  "description": "A simple Machine Learning model that can detect Objects from Live camera feed using TensorFlow.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dantusaikamal/Object-detection-using-TensorFlow.js.git"
+  },
+  "keywords": [
+    "Object-classification"
+  ],
+  "author": "Dantu sai kamal",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Dantusaikamal/Object-detection-using-TensorFlow.js/issues"
+  },
+  "homepage": "https://github.com/Dantusaikamal/Object-detection-using-TensorFlow.js#readme"
+}
