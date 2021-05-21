@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
-  }, 
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Dantusaikamal/Object-detection-using-TensorFlow.js.git"
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Dantusaikamal/Object-detection-using-TensorFlow.js/issues"
   },
-  "homepage": "https://github.com/Dantusaikamal/Object-detection-using-TensorFlow.js#readme"
+  "homepage": "https://github.com/Dantusaikamal/Object-detection-using-TensorFlow.js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
