@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "http-server fileName"
+    "start": "http-server index.html"
   }, 
   "repository": {
     "type": "git",
