@@ -1,6 +1,6 @@
 # Object-detection-using-TensorFlow.js
 
-A simple Machine Learning model that can detect Objects from Live camera feed using TensorFlow.js
+A simple Machine Learning model that can detect 80+ Objects from Live camera feed using TensorFlow.js
 
 Star the repo if you like the project! 
 
